@@ -22,9 +22,7 @@ To install this app first clone the repository from this page. This app does req
 ## Usage
 
 ### Demo:
-
-
-![](./DemoVid.mp4)
+[https://www.youtube.com/watch?v=sSlDA2v78ck](https://www.youtube.com/watch?v=sSlDA2v78ck)
 
 
 From your code editor open a terminal and enter `node app.js`. This will run the program.  Choose which category of employee you like to create and the program will walk you through the prompts.  Create as many employees as you would like and once you done you can select `See All` to make sure that all employees are enter.  Once you are ready choose `Render`.  The app will take all your data and render it into an easy to read HTML in the output folder.  From there open team.html and use the keys `Alt-B` or right click in the code and choose `Open In Default Browser`
