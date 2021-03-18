@@ -1,0 +1,30 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvillacinda11/TemplateEngine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvillacinda11/TemplateEngine/issues"
+  },
+  "homepage": "https://github.com/jvillacinda11/TemplateEngine#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "keywords": []
+}
